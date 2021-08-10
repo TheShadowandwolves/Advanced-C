@@ -1,0 +1,6 @@
+﻿  Ex01.01.cpp
+F:\Dokumente\C Workshop\Exercises\Exercise01\Ex01.01\Ex01.01.cpp(10,13): warning C4473: "scanf_s": nicht genügend Argumente für Formatzeichenfolge übergeben
+F:\Dokumente\C Workshop\Exercises\Exercise01\Ex01.01\Ex01.01.cpp(10,13): message : Platzhalter und deren Parameter erwarten 2 variadic-Argumente, es wurden aber 1 variadic-Argumente bereitgestellt.
+F:\Dokumente\C Workshop\Exercises\Exercise01\Ex01.01\Ex01.01.cpp(10,13): message : Das fehlende variadic-Argument "2" ist für die Zeichenfolge "%c" erforderlich.
+F:\Dokumente\C Workshop\Exercises\Exercise01\Ex01.01\Ex01.01.cpp(10,13): message : Dieses Argument wird als Puffergröße verwendet.
+  Ex01.01.vcxproj -> F:\Dokumente\C Workshop\Exercises\Exercise01\Debug\Ex01.01.exe
