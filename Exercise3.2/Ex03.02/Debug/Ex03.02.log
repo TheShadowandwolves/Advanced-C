@@ -1,0 +1,4 @@
+﻿  Ex03.02.cpp
+F:\Dokumente\C Workshop\Exercises\Exercise3.2\Ex03.02\Ex03.02.cpp(25,21): warning C4474: "printf": zu viele Argumente für Formatzeichenfolge übergeben
+F:\Dokumente\C Workshop\Exercises\Exercise3.2\Ex03.02\Ex03.02.cpp(25,21): message : Platzhalter und deren Parameter erwarten 0 variadic-Argumente, es wurden aber 2 variadic-Argumente bereitgestellt.
+  Ex03.02.vcxproj -> F:\Dokumente\C Workshop\Exercises\Exercise3.2\Debug\Ex03.02.exe
